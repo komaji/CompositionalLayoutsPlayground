@@ -1,4 +1,4 @@
-//: A UIKit based Playground for presenting user interface
+// ref: https://komaji504.hateblo.jp/entry/2020/11/21/023856
   
 import UIKit
 import PlaygroundSupport
